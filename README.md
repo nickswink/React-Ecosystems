@@ -1,5 +1,6 @@
 # React-Ecosystems
-react best practices for modern web apps
+Utilizing React best practices for modern web applications.
+React redux, etc
 
 # SET UP
 
