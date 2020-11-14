@@ -4,7 +4,9 @@ React redux, etc
 
 # SET UP
 
-run -npm install
-    -npm run dev
+run 
+get all dependencies with -npm install
+run the test application with -npm run dev
     
+go to:
 http://localhost:3000
